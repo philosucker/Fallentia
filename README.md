@@ -43,19 +43,65 @@
 ---
 
 ## Development Log  
-[시스템 구성도 Monolithic]
-<img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />
+
+### 08.13.2025 Started development of "House_4.0".  
+    1. Implementing "AI agent System".  
+    2.   
+    
 
 
+
+06.28.2025  
+- Converting code from MSA to Monolithic for test-driven development
+[시스템 구성도 Monolithic]  
+<img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />    
+      
+06.12.2025  
+- Game Story Writing
+
+    
+06.03.2025  
+- Migrating virtual environments from conda to poetry
+
+    
+05.27.2025  
+- Modify all functions that use asynchronous lock
+    
+05.20.2025  
+- Plans to modify the MQ implementation (reprocessing logic, DLQ).  
+- plans to optimize asynchronous/synchronous functions.  
+- consider introducing a dedicated WebSocket message loop.
+
+  
 [시스템 구성도 MSA scale-out]
 <img width="2965" height="1598" alt="시스템_구성도4-MSA_scale-out drawio" src="https://github.com/user-attachments/assets/74a8a989-83a3-4d7c-924f-bb095ab6f7f5" />
 
 
+05.12.2025  
+[시스템 구성도 MSA]  
+<img width="2326" height="1174" alt="시스템_구성도4-MSA drawio" src="https://github.com/user-attachments/assets/4a2c33e1-c0c3-47a9-9ea5-773fff0c6fac" />  
+  
+04.21.2025  
+- MSA Structure Review
+  
+04.11.2025  
+- Message Queue Design Feasibility Review
+  
+04.07.2025  
+- Reviewing the asynchronous lock custom dictionary bottleneck issue
 
-[시스템 구성도 MSA]
-<img width="2326" height="1174" alt="시스템_구성도4-MSA drawio" src="https://github.com/user-attachments/assets/4a2c33e1-c0c3-47a9-9ea5-773fff0c6fac" />
+  
+03.25.2025  
+- Card design completed
 
+  
+03.24.2025  
+- Game concept confirmed
 
+  
+03.21.2025
+- The game title is named "Fallentia"  
+  
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
     2. Implementing "Ranking System" for Cash game.  
@@ -84,7 +130,7 @@
     7. Implementing "Friend System" providing 'Private Sit-and-Go Tables' and 'direct message' to friends
     8. Implementing "Penalty System" 
 
-12.13.2024  
+12.12.2024  
 - Completed establishing **Text Holdem** House_2.0 operating detailed rules.  
 - Completed making implementation rules.  
 - Completed final design of Table scene.  
@@ -104,8 +150,7 @@
       Unofficial References: GGpoker, Pokerstars, REPLAYpoker, IgnitionCasino
 
   
-[break 10.26 ~ 11.03]  
-
+[break 10.26 ~ 11.03 travel to Japan]  
   
 10.25.2024  
 - Completed initial design of Table scene
@@ -134,7 +179,7 @@
     5. UI Rendering : Images and Animations for scenes (Common, Enter, GoLobby, Lobby, GoTable, Table, LeaveTable)
     6. Build and Distribution test
     
-[break 09.13 ~ 09.22]  
+[break 09.14 ~ 09.18 Korean Thanksgiving Day]  
 
 
 ### 09.13.2024 Completed development of "House_1.0".  
