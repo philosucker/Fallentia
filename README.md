@@ -22,27 +22,27 @@
 ### Requirement Skills
 1. Domain Knowledge : No Limit Texas Holdem, Astrophysics
 2. Programming :
-  1) Architecture :
-     - Building a server-to-server communication network through HTTP, MessageBroker(RabbitMQ) and gRPC
-     - Design and implementation of an actor-model-based asynchronous event-driven MSA using DDD and DI patterns
-  2) PL : Python, C#, Rust(PyO3)  
-  3) Backend : 
-     - Design and implementation of a multi-user game engine utilizing an asynchronous lock-based state isolation structure
-     - Building a Python WebSocket server 
-     - Building a FastAPI Web server 
-  4) DB : 
-     - Building a MySQL(SQLAlchemy) and MongoDB(Beanie, Motor) database server for managing web/app service user data
-  5) Application : Mobile(Android, iOS) app UI development using Unity
-  6) Asyncrnous Programming : AsyncIO
-  7) Parallel Computing : Multi-processsing, Threading  
+
+        1) Architecture :
+           - Building a server-to-server communication network through HTTP, MessageBroker(RabbitMQ) and gRPC
+           - Design and implementation of an actor-model-based asynchronous event-driven MSA using DDD and DI patterns
+        2) PL : Python, C#, Rust(PyO3)  
+        3) Backend : 
+           - Design and implementation of a multi-user game engine utilizing an asynchronous lock-based state isolation structure
+           - Building a Python WebSocket server 
+           - Building a FastAPI Web server 
+        4) DB : 
+           - Building a MySQL(SQLAlchemy) and MongoDB(Beanie, Motor) database server for managing web/app service user data
+        5) Application : Mobile(Android, iOS) app UI development using Unity
+        6) Asyncrnous Programming : AsyncIO
+        7) Parallel Computing : Multi-processsing, Threading  
 3. Deep Learning : LLM, DRL  
-4. DevOps : AWS, Docker  
-
-
+4. DevOps : AWS, Docker
+5. 
 ---
 
 ## Development Log  
-![시스템 구성도](https://drive.google.com/file/d/1evdYn9O0uFyQXoeJebzuYb8TlMQmRrub/view?usp=sharing)
+![시스템 구성도](<img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />)
 
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
