@@ -20,21 +20,29 @@
 
 ---
 ### Requirement Skills
-1. Domain Knowledge : No Limit Texas Holdem  
-2. Programming Language : Python, C#, Rust(PyO3)  
-3. Backend : FastAPI  
-4. Database : MySQL(SQLAlchemy), MongoDB(Beanie, Motor)  
-5. Application : Unity
-7. Network Programming : HTTP, WebSocket, MessageBroker(RabbitMQ)  
-8. Asyncrnous Programming : AsyncIO  
-9. Deep Learning : LLM, DRL for AI Holdem Agent  
-10. DevOps : Docker, Kubernetes  
+1. Domain Knowledge : No Limit Texas Holdem, Astrophysics
+2. Programming :
+  1) Architecture :
+     - Building a server-to-server communication network through HTTP, MessageBroker(RabbitMQ) and gRPC
+     - Design and implementation of an actor-model-based asynchronous event-driven MSA using DDD and DI patterns
+  2) PL : Python, C#, Rust(PyO3)  
+  3) Backend : 
+     - Design and implementation of a multi-user game engine utilizing an asynchronous lock-based state isolation structure
+     - Building a Python WebSocket server 
+     - Building a FastAPI Web server 
+  4) DB : 
+     - Building a MySQL(SQLAlchemy) and MongoDB(Beanie, Motor) database server for managing web/app service user data
+  5) Application : Mobile(Android, iOS) app UI development using Unity
+  6) Asyncrnous Programming : AsyncIO
+  7) Parallel Computing : Multi-processsing, Threading  
+3. Deep Learning : LLM, DRL  
+4. DevOps : AWS, Docker  
 
 
 ---
 
 ## Development Log  
-![시스템 구성도](https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view)
+![시스템 구성도](https://drive.google.com/file/d/1evdYn9O0uFyQXoeJebzuYb8TlMQmRrub/view?usp=sharing)
 
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
