@@ -46,12 +46,14 @@
 [시스템 구성도 Monolithic]
 <img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />
 
+
 [시스템 구성도 MSA scale-out]
+<img width="2965" height="1598" alt="시스템_구성도4-MSA_scale-out drawio" src="https://github.com/user-attachments/assets/74a8a989-83a3-4d7c-924f-bb095ab6f7f5" />
 
 
 
 [시스템 구성도 MSA]
-
+<img width="2326" height="1174" alt="시스템_구성도4-MSA drawio" src="https://github.com/user-attachments/assets/4a2c33e1-c0c3-47a9-9ea5-773fff0c6fac" />
 
 
 ### 03.11.2025 Started development of "House_3.0".  
