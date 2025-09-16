@@ -42,7 +42,8 @@
 ---
 
 ## Development Log  
-![시스템 구성도](<img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />)
+[시스템 구성도]
+<img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />
 
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
