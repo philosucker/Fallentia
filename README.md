@@ -35,15 +35,24 @@
            - Building a MySQL(SQLAlchemy) and MongoDB(Beanie, Motor) database server for managing web/app service user data
         5) Application : Mobile(Android, iOS) app UI development using Unity
         6) Asyncrnous Programming : AsyncIO
-        7) Parallel Computing : Multi-processsing, Threading  
-3. Deep Learning : LLM, DRL  
-4. DevOps : AWS, Docker
-5. 
+        7) Parallel Computing : Multi-processsing, Threading
+3. Design system : Figma
+4. Deep Learning : LLM, DRL  
+5. DevOps : AWS, Docker
+
 ---
 
 ## Development Log  
-[시스템 구성도]
+[시스템 구성도 Monolithic]
 <img width="1655" height="985" alt="시스템_구성도4-Monolithic drawio" src="https://github.com/user-attachments/assets/b35a7f40-ddfd-48ef-b11a-3288be508fb1" />
+
+[시스템 구성도 MSA scale-out]
+
+
+
+[시스템 구성도 MSA]
+
+
 
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
